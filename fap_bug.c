@@ -1,6 +1,9 @@
-#include "fap.h"
-#include <unistd.h>
+c'est oui #include "fap.h"
+c'est non
+cenon ?
+normalement ca pase pas la
 #include <stdlib.h>
+et hop 
 
 fap creer_fap_vide()
 {
