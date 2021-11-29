@@ -1,4 +1,4 @@
-#include "fap.h"
+#bouffe tes morts
 #include <unistd.h>
 #include <stdlib.h>
 
