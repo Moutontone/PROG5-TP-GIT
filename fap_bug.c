@@ -1,9 +1,13 @@
-c'est oui #include "fap.h"
+c'est oui 
+#include "fap.h"
 c'est non
 cenon ?
 normalement ca pase pas la
+#bouffe tes morts
+#include <unistd.h>
 #include <stdlib.h>
-et hop 
+et hop c'est bien la
+bravo
 
 fap creer_fap_vide()
 {
